@@ -7,3 +7,5 @@ GAME INSTRUCTIONS:
 - The first player to reach the winning score specified before game initialized on GLOBAL score wins the game
 
 *NOTE: All JavaScript code is written by Niphan Sethi. Only a portion of the HTML and CSS code (as indicated as comments in the respective files) are written by Niphan Sethi. The remainder was written by Jonas Schmedtmann.
+
+This projects shows my understanding of basic JavaScript concepts as well as DOM manipulation. It also shows my ability to write clear and structured code.
